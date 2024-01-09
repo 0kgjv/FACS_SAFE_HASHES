@@ -1,0 +1,11 @@
+##Poi.Toon.8.0.385.unitypackage //keep in  mind that poio DOES reach out to external servers for analytics, if you wish to block statistics read the readme
+#Editor/Config.cs
+a487db1ecc30ab93e400ab9fa5c048e3e0e6951cd2415c350bb79fde2190b173
+#Editor/DataStructs.cs
+fea05191a1a8444c8cd2f405835d9819520c59a15a506b288db5c1d2829ee7f5
+#Editor/Drawers.cs
+07ebc3e7ace2184f5e5912a78bd42123b9dc644168b86c7c9f29eb36ba99e3c5
+#Editor/ShaderOptimizer.cs
+5926a6aa75fab0539e172da590ec5043d6c4d68b5db3ed3bed3aeebf0af182b5
+#Editor/Styles.cs
+09882bcdc3fc2bc64a6041706ae23ff0d5796ad1806608455e65a3aca2223bb2

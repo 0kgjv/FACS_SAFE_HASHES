@@ -1,0 +1,7 @@
+##poi.Toon.7.3.50.To.8.1.163.unitypackage //keep in  mind that poio DOES reach out to external servers for analytics, if you wish to block statistics read the readme
+#ThryEditor/Editor/Config.cs
+d3f9b6648a25bfe7c60a7b0c9c954f7d47b525e9f49767dd8d4a437300640350
+#ThryEditor/Editor/EditorStructs.cs
+8f749b2a2bc43b68bda02c0917396d40e240f2650b627f985db1ad9b1cfbb3fb
+#ThryEditor/Editor/ThryEditor.cs
+b91bcb61e8f7c565d5a390375a24ec1e81c7ffe7a1c2954c64fc6486aaa72cbf

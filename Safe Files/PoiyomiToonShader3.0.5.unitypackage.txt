@@ -1,0 +1,5 @@
+##PoiyomiToonShader3.0.5.unitypackage //keep in  mind that poio DOES reach out to external servers for analytics, if you wish to block statistics read the readme
+#ThryAutoAvatarDescriptor.cs
+f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5
+#ThryVRCContentManager.cs
+f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5

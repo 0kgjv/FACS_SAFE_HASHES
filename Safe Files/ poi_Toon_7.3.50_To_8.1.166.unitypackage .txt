@@ -1,0 +1,21 @@
+## poi_Toon_7.3.50_To_8.1.166.unitypackage //keep in  mind that poio DOES reach out to external servers for analytics, if you wish to block statistics read the readme
+#Scripts/poi-tools/Editor/ThirdPartyIncluderAsset.cs
+61152672932ad53d0265f060f6eb453c283c491dd20c60ddf2703eda170fba9f
+#Scripts/ThryEditor/Editor/Config.cs
+7b4b486f0c16753f2bae13b03a1cdd82f92f3b806fbc5b0ac295284fbfefeb46
+#Scripts/ThryEditor/Editor/DataStructs.cs
+ffe963ce5ca8889495da5f6a3df026efabb609db2b0fafea3a6ab89295bc002a
+#Scripts/ThryEditor/Editor/Drawers.cs
+c34bd16924d6f12aa75fb50249f23d0dc269519ec68988533454fa061c05dfec
+#Scripts/ThryEditor/Editor/EditorStructs.cs
+98181881b3177130aa238634fd855a27f3c658360bef289f221f82d9235bc4b6
+#Scripts/ThryEditor/Editor/GUIHelper.cs
+c1b4ffbf96ffddc53654a938cfc3b7f6a426104976bc2b4468a4780a02e03e7b
+#Scripts/ThryEditor/Editor/Helper.cs
+45a48020095de8daa8a11d0b1d1253d2e30119cdc96e67f0e5d4f31dd560176f
+#Scripts/ThryEditor/Editor/Presets.cs
+af651aed05cb2cec97a821a1dfc2e93bc90702cd32f43f0cc1a6b22d8748d187
+#Scripts/ThryEditor/Editor/ShaderOptimizer.cs
+6f1e4319f88b1e4d64f8b4100a90e39ed2fe80915a7a864ac560c76ea199d5ca
+#Scripts/ThryEditor/Editor/Styles.cs
+0d7d13f508d74cd575b220be1affbaa7da5a7919c1013565f752e065de486b1c

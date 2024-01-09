@@ -1,0 +1,21 @@
+##PoiyomiToonV5.5.5.unitypackage //keep in  mind that poio DOES reach out to external servers for analytics, if you wish to block statistics read the readme
+#Config.cs
+e46f5159370faac00c0daa4fefa1abe403d0cd90587c7350c9fe6496bdce04d0
+#DataStructs.cs
+b7e635ceeefc6c8bda88e2d23b824c203804188a2a9586e4e67bc1fbe2468498
+#GUIHelper.cs
+916813e4ef3c46b10583fde5d02870ee141c5aaca63d37494242e901811d08dc
+#HelperShader.cs
+0d457638c37bd161c8b0ecdb374f773a44d0f9f984add283332732b7c2860792
+#Parser.cs
+e83d570ef8d0faebf8c68daec8f4822b926c0bcff96efb3f32e5d6511bb87c90
+#PresetEditor.cs
+145dab5322ed24dca95331f37d48707d012a6cdaba330828c15641794b3fc9e0
+#PresetHandler.cs
+9ce3fe77bf247fe2c2b918a22b7c5f93eadf401a74900d32536a057e8185cea1
+#ShaderImportFixer.cs
+4c2e001723e7d1b5843f242bd8477423fefd175b5c294c8fb92645af819a3630
+#ThryEditor.cs
+dd75de8d51b6da7a2a5f0f660661601ac8189769a75f67d573793d3cae2f8ba1
+#ThryFileBuilder.cs
+0a405753a6cc0642a84119dc344bc8fe0d96fc30bff8000f1cd490cb54f45525

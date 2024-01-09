@@ -1,0 +1,3 @@
+##PoiyomiToonShaderV2.0.3.unitypackage //keep in  mind that poio DOES reach out to external servers for analytics, if you wish to block statistics read the readme
+#PoiToon.cs
+dc2f346dd945c6245c04b59206f3457426cf7700381ed8eed7295aba86bb51fa
