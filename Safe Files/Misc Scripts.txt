@@ -1,0 +1,7 @@
+##Random Scripts From Within Projects I Have Imported And Verified As Safe
+#anims/VRChatThumbnailer.cs
+58aeb64e4314822c087288e4b4205b68bbb0170fe720cc3700f31308de558c09
+#Snail/Marker/Marker3.0/AnimationGenerator/SnailMarker3AnimationCreator.cs
+f19898aa2adc20995ec29012d4c258f687e2d9fdae0c4a3256107eb574505593
+#Snail/Marker/Marker3.0/AnimationGenerator/Editor/SnailMarker3AnimationCreatorEditor.cs
+fd1c52662d358c0c8e944229abb02818a1ffdd8aa5be75f52624762932e83817
