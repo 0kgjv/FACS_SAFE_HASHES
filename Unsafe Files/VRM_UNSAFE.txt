@@ -1,0 +1,6 @@
+##UNSAFE
+#DynamicBoneSquareCollider.cs
+ef5df048dbf71847be224989b6f8e4a29df1ce3f9d8d892e3d646ed2075d4a53
+##UNSAFE
+#DynamicBoneSquareCollider.cs
+d019a2fc12f2604f2de16d33412ac1bb5a721bcfecb98466d35d02e41bf79b5b
