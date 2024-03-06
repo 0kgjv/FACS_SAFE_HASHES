@@ -1,0 +1,9 @@
+##VRCQuestTools 1.0.1
+#KRT/VRCQuestTools/Editor/VRCQuestTools.cs
+47dd5259a87abc37dc1f026f91e9f80ae6cbcefed49c5b6cece01e037699167f
+#KRT/VRCQuestTools/Editor/Models/Unity/MaterialBase.cs
+3bf8a0512a563a77c5e34f3e5459b928ae40ebe25bb70f156efb07a2fae9271c
+#KRT/VRCQuestTools/Editor/Models/VRChat/VRChatAvatar.cs
+357a9a9735b02d7df20b53bd334f76f143769fe5a78f6ffa77f8f2e418108b70
+#KRT/VRCQuestTools/Editor/Utils/UnityAnimationUtility.cs
+e55ac1bf88b5bc890458008be9770853076449d63159cad721f17a4946cef1a1

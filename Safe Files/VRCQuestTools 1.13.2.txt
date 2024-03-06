@@ -1,0 +1,15 @@
+##VRCQuestTools 1.13.2
+#com.github.kurotu.vrc-quest-tools/Editor/VRCQuestTools.cs
+c34989694e4c1fcceb69e1aa82242ad76852a40de431ba4d3d194965682cf099
+#com.github.kurotu.vrc-quest-tools/Editor/Automators/VertexColorRemoverAutomator.cs
+58b6010c4af9ad4feac644161c9592cf1f1e82201335bd79637b6764b1ac657c
+#com.github.kurotu.vrc-quest-tools/Editor/Models/Validators/NoPCAvatarOnAndroidRule.cs
+0653d96a60b26b06e487c01db4d3ffdb8cf64a6267b27938426df6f5319b26d4
+#com.github.kurotu.vrc-quest-tools/Editor/Models/VRChat/AvatarDynamics.cs
+4743db31c648392d0a802cd6d58028fc1405be7977b3e68ffeb15c902f759a76
+#com.github.kurotu.vrc-quest-tools/Editor/Models/VRChat/VRChatAvatar.cs
+ff4bf41f120f5d1f40344bef0f747fb8af045543cb9d29bbe4499dbd4b008460
+#com.github.kurotu.vrc-quest-tools/Editor/Utils/VRCSDKUtility.cs
+42145bb5e283f035a11d17534ce4abb0a093689b3fe2397d55b0618e1cf8e2aa
+#com.github.kurotu.vrc-quest-tools/Runtime/Components/VertexColorRemover.cs
+62435acb8990c127d1b6a9485293c0daf5bba9905222cce09bd37bc2bb3f228c

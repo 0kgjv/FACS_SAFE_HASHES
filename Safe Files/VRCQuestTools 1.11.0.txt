@@ -1,0 +1,25 @@
+##VRCQuestTools 1.11.0
+#com.github.kurotu.vrc-quest-tools/Editor/AvatarProcessor.cs
+ab463d5dfdcdcc199ae557aafb9eb65aab686a4ce82b74d9bd207b807c21135a
+#com.github.kurotu.vrc-quest-tools/Editor/VRCQuestTools.cs
+2abe940c048f4645bfc181fc85932a47665f2c16bbd5756b191fe95cf9ba75cc
+#com.github.kurotu.vrc-quest-tools/Editor/Automators/UpdateCheckerAutomator.cs
+f75f420467342727370b207a78dbefe4274f77d625bf53653ae2ba7bf461aac4
+#com.github.kurotu.vrc-quest-tools/Editor/Automators/ValidationAutomator.cs
+c134cd7799cd8a4b72ad315a6963d677dee4db93db6539737637e965b07e04fd
+#com.github.kurotu.vrc-quest-tools/Editor/Automators/VertexColorRemoverAutomator.cs
+e218710b5f82c6581f50677859004717ff7f1f5849511d0c40fa93f299ac86c7
+#com.github.kurotu.vrc-quest-tools/Editor/Menus/VertexColorRemoverMenu.cs
+4ddf43009bdb2243a26b01d8c1aa67da88efd028baf9f82b34b214d35fc932d4
+#com.github.kurotu.vrc-quest-tools/Editor/Menus/VRCQuestToolsMenus.cs
+c431155fe8069e20fbb942b8faae7dee6335aa9484e8def2a6137cf94226f470
+#com.github.kurotu.vrc-quest-tools/Editor/Models/SemVer.cs
+e11c4bf00cbe01d1520d972aed42da7e6570fe6391838157ab30089af27be9d7
+#com.github.kurotu.vrc-quest-tools/Editor/Models/VRCQuestToolsSettings.cs
+975852e9f5dd6becebf1f190f2ba43aa23aa84c4e7322ca60857fa2195efc7e1
+#com.github.kurotu.vrc-quest-tools/Editor/Models/VRChat/AvatarConverter.cs
+b6df3d300f461dd2781ca9901e4777a30e223dbfb88676989e07a18edb745076
+#com.github.kurotu.vrc-quest-tools/Editor/Utils/AssetUtility.cs
+7cbb008da2d4dd6e20ca607701a29cad85a4c4812fc92c500b71a2e14bd3116f
+#com.github.kurotu.vrc-quest-tools/Runtime/Components/VertexColorRemover.cs
+54f07efc93c0f60bfda414c0084a4169db53b80e06e8671a1787df2d5aabe9c3

@@ -1,0 +1,7 @@
+##VRCQuestTools 1.12.0
+#Editor/VRCQuestTools.cs
+4103dde83b592ccbf3d522e0eb0a736843cdd12ee70aec056d4b04ee5eedccc1
+#Editor/Automators/UpdateCheckerAutomator.cs
+e0c6be26256fdb82428ab8c04bddfde6889c24d3f667ad7849f1140cf71411b1
+#Editor/Services/VPMService.cs
+fc548d3f5ced01a77cb3d513aceea2f4585eb2e55bb210e7a517cee7f02ee651

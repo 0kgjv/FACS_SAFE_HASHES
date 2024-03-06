@@ -1,0 +1,23 @@
+##VRCQuestTools 1.9.1
+#com.github.kurotu.vrc-quest-tools/Editor/VRCQuestTools.cs
+f8e9c2e93243ea3d57a30c01d0b8a4ae90390d9f05d829dd16d501bbba04356f
+#com.github.kurotu.vrc-quest-tools/Editor/Automators/VertexColorRemoverAutomator.cs
+0a9417597d91762dcc2a0da36e53473f64d26caae1fb27a75f3935268b297a79
+#com.github.kurotu.vrc-quest-tools/Editor/I18n/I18nBase.cs
+670135e3d5a30e3fe14548d0b15daba4a94d8361c9be9b01bb26afce9710d003
+#com.github.kurotu.vrc-quest-tools/Editor/I18n/I18nEnglish.cs
+9359a002b38e7764ee711c1b8018d4f0125d5e033a616fff4dccae205c0c484e
+#com.github.kurotu.vrc-quest-tools/Editor/I18n/I18nJapanese.cs
+f4f4378de798a3eb291cbe6ad4349ae23e091a0d706f1bcaad07080cd9e14439
+#com.github.kurotu.vrc-quest-tools/Editor/Models/VRChat/AvatarConverter.cs
+9faef0a00ac5deaf452b18b318ac770e6436fa59c5ca54a36b9474032e5d954e
+#com.github.kurotu.vrc-quest-tools/Editor/Models/VRChat/AvatarConverterSetting.cs
+375ff9b72501debc52f5f0150d7246b5ae6013f247d858a03045712233e5d672
+#com.github.kurotu.vrc-quest-tools/Editor/Models/VRChat/VRChatAvatar.cs
+ec69594a4c5b639278a0ec12a588dacae6f3ac3455e777b6c83ed91691e9ac9b
+#com.github.kurotu.vrc-quest-tools/Editor/Utils/VRCSDKUtility.cs
+b186d0e2340ad8dc37c824b1a16838beed08d276f3f68017a905ad811d9f76a9
+#com.github.kurotu.vrc-quest-tools/Editor/ViewModels/AvatarConverterViewModel.cs
+8354c4efe5f47d1d890ac20c0599be11d115b7cddb1d3e1d671450beb66fc707
+#com.github.kurotu.vrc-quest-tools/Editor/Views/AvatarConverterWindow.cs
+c6e26c2d76951f46488397e461c003f7572aa4e35c7a321aaf7086a8de575eb8

@@ -1,0 +1,5 @@
+##VRCQuestTools 1.13.0
+#com.github.kurotu.vrc-quest-tools/Editor/VRCQuestTools.cs
+159c3ce06099180c3629c672f8ea1ec54e8d958c385e6b68118d5e06de9d797a
+#com.github.kurotu.vrc-quest-tools/Editor/Models/VRChat/AvatarDynamics.cs
+b233c105b22f71d9280f3e7e551a2322d178c055c90b75fe6bafac3d24d9d92f

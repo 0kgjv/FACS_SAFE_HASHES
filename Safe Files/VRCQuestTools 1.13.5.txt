@@ -1,0 +1,11 @@
+##VRCQuestTools 1.13.5
+#com.github.kurotu.vrc-quest-tools/Editor/VRCQuestTools.cs
+d0d0c0871768408183c6b6a84e4015114c583f8fead89795e431fbbe799e4d9d
+#com.github.kurotu.vrc-quest-tools/Editor/I18n/I18nEnglish.cs
+1f1bb127d6d9cc1a084e153b8beb1e60eb1ad5f5eab618c1c665dc3730f2925a
+#com.github.kurotu.vrc-quest-tools/Editor/I18n/I18nJapanese.cs
+d66e5f29319010232481ebd2810c930384dc3993d97753ce855861b39d57c00a
+#com.github.kurotu.vrc-quest-tools/Editor/Models/Unity/LilToonMaterial.cs
+e53e0b254ef8723054544dfe7f52dec6a40294af8d77ef10abce7566ee210b36
+#com.github.kurotu.vrc-quest-tools/Editor/Models/Unity/MaterialBase.cs
+c7c4bab49b6b5580cf929148810815eeb2b0f871593361737420ff1d7c2c07a3

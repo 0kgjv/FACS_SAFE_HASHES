@@ -1,0 +1,13 @@
+##Material Replacer 1.2.0
+#com.github.kurotu.material-replacer/Editor/GitHubRelease.cs
+d242cddc4ae6a070dd09971e8a8ec333773014558b3687e925ab74f8b5f30dd9
+#com.github.kurotu.material-replacer/Editor/MaterialReplacer.cs
+b2d2af0b8e19194144ea85d03794013ae2fa7594392b85dd7af06f2cc864f868
+#com.github.kurotu.material-replacer/Editor/MaterialReplacerRule.cs
+967ebea0266eb5e4fb2a1a6224ee0b680fd40674c13ad209ccad01e74a91f7e4
+#com.github.kurotu.material-replacer/Editor/MaterialReplacerRuleEditor.cs
+f5f397e6c98784f191501d3c6e17f817b959e8cf3c79d7d2cc6cd2016aee4eb3
+#com.github.kurotu.material-replacer/Editor/MaterialReplacerWindow.cs
+bf4148a051c45ef8af3959028b052caf29b5dea7c797a2261dc19ef44152d841
+#com.github.kurotu.material-replacer/Editor/SemVer.cs
+d87e1a890ab0257caf4de46a9094fe392c66e828617c862b9248884c17ad9f4b

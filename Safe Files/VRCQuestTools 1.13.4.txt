@@ -1,0 +1,5 @@
+##VRCQuestTools 1.13.4
+#com.github.kurotu.vrc-quest-tools/Editor/VRCQuestTools.cs
+780069cdab1e0b25f4bb9b44ac274037364388017245b32ac144b6fe18a1f3c8
+#com.github.kurotu.vrc-quest-tools/Editor/Models/Unity/LilToonMaterial.cs
+03ac165d1c179f018bb46f853fe09374d3e680205000317608f670c7f34f3bb6

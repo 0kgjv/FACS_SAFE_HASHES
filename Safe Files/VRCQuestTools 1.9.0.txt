@@ -1,0 +1,5 @@
+##VRCQuestTools 1.9.0
+#Editor/VRCQuestTools.cs
+43f59764eb3b9c042479b5b1e81958533e1d750c1f0556ab1c7978b874b516fd
+#Editor/ViewModels/AvatarConverterViewModel.cs
+1d8c5b09fc32863b5cb8d900e2d1082f34c8269cc972600843063d3deb74a5e5

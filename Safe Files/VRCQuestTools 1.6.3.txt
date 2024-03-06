@@ -1,0 +1,5 @@
+##VRCQuestTools 1.6.3
+#KRT/VRCQuestTools/Editor/VRCQuestTools.cs
+ee853f30d0c48065058afcc9e4175d23da7e334c4b165843c0870794fd275518
+#KRT/VRCQuestTools/Editor/Utils/AssetUtility.cs
+97106e72191fe9e431bf024656923369547f2e33b84f4bc38f811e77d8b0de4f

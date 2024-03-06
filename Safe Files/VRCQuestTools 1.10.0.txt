@@ -1,0 +1,5 @@
+##VRCQuestTools 1.10.0
+#com.github.kurotu.vrc-quest-tools/Editor/VRCQuestTools.cs
+d376f8e251a95e6ca43f13aa01f1508f2bad28fe94df0356b955c4a37a3243e0
+#com.github.kurotu.vrc-quest-tools/Editor/Models/VRChat/AvatarConverter.cs
+a82e90c945fa2da328da3549ea9deedd59831c6c8b67cd05709bfe79d4dafced

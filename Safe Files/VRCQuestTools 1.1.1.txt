@@ -1,0 +1,7 @@
+##VRCQuestTools 1.1.1
+#KRT/VRCQuestTools/Editor/VRCQuestTools.cs
+23a268ca7588912d91018dfc7a4fabf4ec93df7283d2bd7bab599102fb2469df
+#KRT/VRCQuestTools/Editor/I18n/I18nEnglish.cs
+c706b1595c092ab05a911c990a8f93cd29959bdb5d93084f8a9b74a21af87a63
+#KRT/VRCQuestTools/Editor/I18n/I18nJapanese.cs
+b16bceead700340434c9edc904f9f531856eefc0902c029dade027d7ca520b33

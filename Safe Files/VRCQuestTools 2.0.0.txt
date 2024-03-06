@@ -1,0 +1,3 @@
+##VRCQuestTools 2.0.0
+#com.github.kurotu.vrc-quest-tools/Editor/VRCQuestTools.cs
+8ce89ae2aa96633b29c8357110688e87039b72d17f4e9bdf991d8a62f7696789
