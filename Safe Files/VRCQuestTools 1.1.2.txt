@@ -1,5 +1,0 @@
-##VRCQuestTools 1.1.2
-#KRT/VRCQuestTools/Editor/VRCQuestTools.cs
-b81a9908f42b607ffe727c589a9e4733bcde8d396fd7f2fc8ea92c59748d14be
-#KRT/VRCQuestTools/Editor/Utils/UnityAnimationUtility.cs
-f26237574bd285c586120e236d9dcbe240d0b5a5d3105c35ab5aff42389b9818

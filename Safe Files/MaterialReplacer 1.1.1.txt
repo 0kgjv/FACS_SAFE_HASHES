@@ -1,5 +1,0 @@
-##MaterialReplacer 1.1.1
-#com.github.kurotu.material-replacer/Editor/MaterialReplacer.cs
-4631b46aff7bce5c91422d7cd0a1b320a5f7b9d4976f36cab5c733ffdca1a22c
-#com.github.kurotu.material-replacer/Editor/MaterialReplacerWindow.cs
-62bc1dba3f5105aa89049b69cf4a8b4a449419c7379232c6a91309dd8944aba0

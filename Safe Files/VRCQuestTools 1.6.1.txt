@@ -1,9 +1,0 @@
-##VRCQuestTools 1.6.1
-#KRT/VRCQuestTools/Editor/VRCQuestTools.cs
-de72c7b997a767c2ec18660dfa3b8dd570b420774b9f1f57da0d12c6303cfe17
-#KRT/VRCQuestTools/Editor/Models/Unity/LilToonMaterial.cs
-258a7613be3b6deb912f3db80883d11c72efe68f40a37f11a0f5c4c32d2eea3d
-#KRT/VRCQuestTools/Editor/Utils/AssetUtility.cs
-f84daea5fac2811e3fda0fe11bc2939eb39568c95fae5127b53a4830e0acf4a2
-#KRT/VRCQuestTools/Editor/Utils/UnityAnimationUtility.cs
-01467ab060bf47b56035ed1dad7387e14470e1e5106072e5b4e4852a9dcf25ff

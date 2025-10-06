@@ -1,3 +1,0 @@
-##VRCQuestTools 1.6.6
-#KRT/VRCQuestTools/Editor/VRCQuestTools.cs
-ff742791e1084898cdc0d82fa1755f896bf4bf6dd95c6f8f7b93b65d72a724e0

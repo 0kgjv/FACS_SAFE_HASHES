@@ -1,9 +1,0 @@
-##KRT Material Tools 0.0.1Alpha1
-#a/Editor/Common/GitHubRelease.cs
-d0a0d9261b61eb3e1c386f02d50b52f731c7dfae1b0f3dff79b651014f2c2985
-#a/Editor/Common/SemVer.cs
-704ce8b208b2b7b1155315e916076ad462fa6639b1f2e6e4d991354044d5ae5e
-#a/Editor/Common/UpdateChecker.cs
-d73c69afd854baeb1f2f95f237b8eae5656043002fcfb1daa936e052314973bc
-#a/Editor/MaterialReplacer/MaterialReplacerRuleMigrator.cs
-c60f310ba16b1862f1224dbe543e453ea815fb73d0ce60c74c090154c590664d

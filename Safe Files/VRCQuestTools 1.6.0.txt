@@ -1,9 +1,0 @@
-##VRCQuestTools 1.6.0
-#KRT/VRCQuestTools/Editor/VRCQuestTools.cs
-f638248513f54d0258b521de74784dee66bfa8368d99478a742c8e2eae141a6b
-#KRT/VRCQuestTools/Editor/I18n/I18nBase.cs
-a73e23fa3eb99348dc06ceb339741dc69fcce135291d76bb57ac3d20eb588f87
-#KRT/VRCQuestTools/Editor/I18n/I18nEnglish.cs
-438f4e4a1587684370378d5c63aae7ad1f4a4c7383566529d80c9f486cec3cc0
-#KRT/VRCQuestTools/Editor/I18n/I18nJapanese.cs
-02e79a28e82099b66e19da298b9791c4c6e3f061c7cab1874fa294afe1199c7c

@@ -1,7 +1,0 @@
-##VRCQuestTools 2.1.0
-#com.github.kurotu.vrc-quest-tools/Editor/VRCQuestTools.cs
-f5c849e018f5f2fd378d2bbf6f764ca93612a9688cf06d4ac6f493c20da033ed
-#com.github.kurotu.vrc-quest-tools/Editor/NDMF/VRCQuestToolsNdmfPlugin.cs
-b0fed2def59d13b98822dac101f4cf7e4ce2d46dcc53390a9cf799123c8c49fb
-#com.github.kurotu.vrc-quest-tools/Editor/NDMF/Passes/RemoveUnsupportedComponentsPass.cs
-f3a3919f7c8b36d87a5ebc00942d5630c3e4aa3475f3e468615efad746f8fc30

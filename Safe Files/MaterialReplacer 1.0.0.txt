@@ -1,7 +1,0 @@
-##MaterialReplacer 1.0.0
-#KRT/MaterialReplacer/Editor/MaterialReplacer.cs
-85839c9dead054237eab4f4cecb94617735cb68980ba8d61bd83f15400d4960f
-#KRT/MaterialReplacer/Editor/MaterialReplacerRule.cs
-a38dfc89ba1328f7eec9f592e6dd1c7806adde477af4a6b15744668784e9d1de
-#KRT/MaterialReplacer/Editor/MaterialReplacerWindow.cs
-c3ea1bf4beb7b454680f3d5ac071786b514d173a8f45b7d0018fbef91cd50876

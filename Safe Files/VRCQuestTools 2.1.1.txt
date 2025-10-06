@@ -1,5 +1,0 @@
-##VRCQuestTools 2.1.1
-#com.github.kurotu.vrc-quest-tools/Editor/VRCQuestTools.cs
-2031b56b73dd7e41fa7aeac3c0df47dc2415fd756c0091f5d5c60d5c1fabb5bb
-#com.github.kurotu.vrc-quest-tools/Editor/NDMF/NdmfComponentRemoverWarning.cs
-bf3c9741191a009da3f479ad8631bef18c719905a81714502b695a4d64b9eaa2

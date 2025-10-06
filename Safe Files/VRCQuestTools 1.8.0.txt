@@ -1,7 +1,0 @@
-##VRCQuestTools 1.8.0
-#KRT/VRCQuestTools/Editor/VRCQuestTools.cs
-086931ba9da1bfee8c1966c01610826951f258c6c91112bcc6c3f30f9614c3f1
-#KRT/VRCQuestTools/Editor/Models/Unity/MaterialBase.cs
-7e1d7e1ea637ecc6aded43126edfcd7e0c727b1e063b1a98017c1fe34423a22a
-#KRT/VRCQuestTools/Editor/Utils/AssetUtility.cs
-44a473b4f414e57e935239a64e3027498839061dbab15de176bef11231f85363

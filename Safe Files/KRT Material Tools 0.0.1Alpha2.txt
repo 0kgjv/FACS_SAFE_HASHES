@@ -1,3 +1,0 @@
-##KRT Material Tools 0.0.1Alpha2
-#a/Editor/Common/UpdateChecker.cs
-f126a55835dc3bf7fb76235e244ec7ea25f738f2349ca2a3beca52bc21eeedd3
